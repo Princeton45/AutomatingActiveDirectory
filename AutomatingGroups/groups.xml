@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<data>
+	<group>	
+		<name>Programmers</name>
+		<titles>
+			<title>Jr Developer</title>
+			<title>Sr Developer</title>
+		</titles>
+	</group>
+	<group>	
+		<name>Design</name>
+		<titles>
+			<title>UX Designer</title>
+			<title>Help Desk Technician</title>
+		</titles>
+	</group>	
+</data>
