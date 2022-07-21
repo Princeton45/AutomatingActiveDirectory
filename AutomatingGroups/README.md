@@ -11,4 +11,4 @@ This Powershell script does the following:
   
   Day 2) Adding in a parameter called "create" 
    - Creates the group if it doesn't exist
-    -If we don't pass the parameter, it wont pass the groups by default.
+    - If we don't pass the parameter, it wont pass the groups by default.
